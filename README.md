@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chechesk&label=Profile%20views&color=0e75b6&style=flat" alt="chechesk" /> </p>
 
-<p align="left"> <a href="https://twitter.com/chechesk" target="blank"><img src="https://img.shields.io/twitter/follow/rulhdiaz?logo=twitter&style=for-the-badge" alt="chechesk" /></a> </p>
+<p align="left"> <a href="https://twitter.com/chechesk" target="blank"></a> </p>
 
 - 🌱 I’m currently learning **Next JS and Typescript**
 
