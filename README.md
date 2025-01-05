@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **React JS, Express JS, Node JS, Redux**
 
-- 📫 How to reach me **jgromerom89@gmail.com**
+- 📫 How to reach me **joseromero@jrdevs.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
